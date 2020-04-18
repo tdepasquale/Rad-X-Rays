@@ -1,0 +1,9 @@
+obj
+bin
+appsettings*
+.vscode
+.DS_Store
+wwwroot
+publish
+launchsettings.json
+settings.json
