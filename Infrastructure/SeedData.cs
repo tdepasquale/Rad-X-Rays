@@ -8,7 +8,7 @@ namespace Infrastructure
 {
     public class SeedData
     {
-        public static async Task SeedDummyValues(DataContext context)
+        public static async Task SeedDummyValuesAsync(DataContext context)
         {
             if (!context.DummyValues.Any())
             {

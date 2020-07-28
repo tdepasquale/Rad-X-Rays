@@ -7,3 +7,5 @@ wwwroot
 publish
 launchsettings.json
 settings.json
+AppIdentityDbContextSeed.cs
+SocialLogins.tsx
