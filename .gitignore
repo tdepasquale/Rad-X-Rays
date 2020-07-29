@@ -9,3 +9,4 @@ launchsettings.json
 settings.json
 AppIdentityDbContextSeed.cs
 SocialLogins.tsx
+node_modules
